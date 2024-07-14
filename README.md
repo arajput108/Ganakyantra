@@ -1,5 +1,5 @@
 # Ganakyantra
-A device for calculation when your mind wants rest.
+A device for calculation when your mind wants rest & to save time.
 
 🌲Aim:-Ganakyantra is basic level of calculating device devloped for solving non-scientific level of calculation for practice purpose.
 
